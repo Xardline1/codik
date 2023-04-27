@@ -8,4 +8,4 @@ Traceback (most recent call last):
     if not MainWindow.objectName():
 TypeError: unbound method QObject.objectName() needs an argument
 
-Появляется такая ошибка
+Появляется такая ошибка:
